@@ -1,0 +1,19 @@
+/* Chart.css */
+.recharts-text.recharts-cartesian-axis-tick-value,
+.recharts-text.recharts-label,
+.recharts-layer.recharts-line,
+.recharts-legend-item-text {
+    fill: white;
+}
+
+.recharts-layer.recharts-cartesian-axis-line,
+.recharts-layer.recharts-cartesian-axis-tick-line,
+.recharts-layer.recharts-cartesian-grid,
+.recharts-layer.recharts-cartesian-axis-tick {
+    stroke: white;
+}
+
+.recharts-layer.recharts-tooltip-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+}

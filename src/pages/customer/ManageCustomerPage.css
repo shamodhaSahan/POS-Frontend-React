@@ -1,0 +1,19 @@
+.customer-cont{
+    width: 94%;
+    margin: 25px;
+    padding-bottom: 20px;
+    border-radius: 25px;
+    background-color: #fff;
+}
+.action-btn button{
+    width: 23%;
+}
+.action-btn{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+tbody tr:hover {
+    background-color: rgb(243, 243, 243);
+    cursor: pointer;
+}

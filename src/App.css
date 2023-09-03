@@ -1,0 +1,54 @@
+.active li{
+  background-color: #EDE7F6;
+  border-radius: 20px;
+}
+.active *
+{
+  color: #673AB7;
+}
+
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div {
+  border: 0;
+}
+
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul>a:hover,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul li:hover,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div>ul>a:hover,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div>ul li:hover {
+  border-radius: 20px;
+}
+
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div>ul {
+  margin: 0 10px 10px 10px;
+}
+
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul li div,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul li a,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div>ul li div,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div>ul li a {
+  border-radius: 20px;
+  color: #616161;
+}
+
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul li>div>div.MuiListItemIcon-root.css-wa5fuu-MuiListItemIcon-root>svg,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div>ul li>div>div.MuiListItemIcon-root.css-1ddsiuw-MuiListItemIcon-root>svg {
+  color: #616161;
+}
+
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul li:hover,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div>ul li:hover {
+  background-color: #EDE7F6;
+}
+#root > div > div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked > div > ul > a > li > div,
+#root > div > div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked > div > ul > a > li > div
+{
+margin: 5px 0;
+}
+
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul li:hover>div>div.MuiListItemIcon-root.css-wa5fuu-MuiListItemIcon-root>svg,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-2dum1v-MuiDrawer-docked>div>ul li:hover>div>div.MuiListItemIcon-root.css-1ddsiuw-MuiListItemIcon-root>svg,
+#root>div>div.MuiDrawer-root.MuiDrawer-docked.css-1hsz34s-MuiDrawer-docked>div>ul>a:hover>li>div>div.MuiListItemText-root.css-1ic4du8-MuiListItemText-root>span {
+  color: #673AB7;
+}
